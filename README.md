@@ -8,4 +8,4 @@
 ```
 python meuprojeto.py
 ```
-![]https://pt.wikipedia.org/wiki/Ficheiro:Python-logo-notext.svg
+![]https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png
